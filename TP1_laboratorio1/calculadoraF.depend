@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1536321546 source:c:\users\federico\desktop\programacion\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operacionesMatematicas.h"
+
+1536322288 c:\users\federico\desktop\programacion\calculadora\operacionesmatematicas.h
+
+1554073014 source:c:\users\federico\desktop\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operacionesMatematicas.h"
+
+1554073923 c:\users\federico\desktop\tp_laboratorio_1\operacionesmatematicas.h
+
+1554073923 source:c:\users\federico\desktop\tp_laboratorio_1\operacionesmatematicas.c
+	<stdio.h>
+	<stdlib.h>
+
+1554073923 source:c:\users\federico\desktop\tp1_laboratorio1\operacionesmatematicas.c
+	<stdio.h>
+	<stdlib.h>
+
+1559681691 source:c:\users\federico\downloads\tp_laboratorio1-master\tp1_laboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operacionesMatematicas.h"
+
+1559681691 c:\users\federico\downloads\tp_laboratorio1-master\tp1_laboratorio1\operacionesmatematicas.h
+
+1559681691 source:c:\users\federico\downloads\tp_laboratorio1-master\tp1_laboratorio1\operacionesmatematicas.c
+	<stdio.h>
+	<stdlib.h>
+
+1559681691 source:c:\users\federico\desktop\tp_laboratorio1-master\tp1_laboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operacionesMatematicas.h"
+
+1559681691 c:\users\federico\desktop\tp_laboratorio1-master\tp1_laboratorio1\operacionesmatematicas.h
+
+1559681691 source:c:\users\federico\desktop\tp_laboratorio1-master\tp1_laboratorio1\operacionesmatematicas.c
+	<stdio.h>
+	<stdlib.h>
+
