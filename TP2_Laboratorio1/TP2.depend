@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1589567410 source:c:\users\federico\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Burgos.h"
+
+1589306803 source:c:\users\federico\desktop\tp2\burgos.c
+	<stdio.h>
+	<stdlib.h>
+	"Burgos.h"
+
+1589067113 c:\users\federico\desktop\tp2\burgos.h
+	"ArrayEmployees.h"
+
+1589352195 source:c:\users\federico\desktop\tp2\arrayemployees.c
+	"ArrayEmployees.h"
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	<string.h>
+
+1589567410 c:\users\federico\desktop\tp2\arrayemployees.h
+
+1589381240 source:c:\users\federico\desktop\tp2\validaciones.c
+
+1589328258 c:\users\federico\desktop\tp2\validaciones.h
+
