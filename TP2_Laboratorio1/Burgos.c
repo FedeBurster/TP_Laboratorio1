@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include "Burgos.h"
 
-
 int mainMenu()
 {
     int respuesta;

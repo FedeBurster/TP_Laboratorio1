@@ -25,3 +25,29 @@
 
 1589328258 c:\users\federico\desktop\tp2\validaciones.h
 
+1589669659 source:c:\users\federico\desktop\tp2_laboratorio1\burgos.c
+	<stdio.h>
+	<stdlib.h>
+	"Burgos.h"
+
+1589669692 c:\users\federico\desktop\tp2_laboratorio1\burgos.h
+	"ArrayEmployees.h"
+
+1589676400 c:\users\federico\desktop\tp2_laboratorio1\arrayemployees.h
+
+1589676299 source:c:\users\federico\desktop\tp2_laboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Burgos.h"
+
+1589381240 source:c:\users\federico\desktop\tp2_laboratorio1\validaciones.c
+
+1589676264 source:c:\users\federico\desktop\tp2_laboratorio1\arrayemployees.c
+	"ArrayEmployees.h"
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	<string.h>
+
+1589675170 c:\users\federico\desktop\tp2_laboratorio1\validaciones.h
+
