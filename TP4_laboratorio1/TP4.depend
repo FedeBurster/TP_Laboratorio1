@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1593212826 source:c:\users\federico\desktop\tp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593281456 c:\users\federico\desktop\tp4\linkedlist.h
+
+1593213752 source:c:\users\federico\desktop\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"burgos.h"
+
+1592080283 source:c:\users\federico\desktop\tp4\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1593270388 c:\users\federico\desktop\tp4\employee.h
+	"LinkedList.h"
+
+1533133022 c:\users\federico\desktop\tp4\parser.h
+
+1592081329 source:c:\users\federico\desktop\tp4\burgos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"LinkedList.h"
+	"burgos.h"
+	"Employee.h"
+
+1592081127 c:\users\federico\desktop\tp4\burgos.h
+	"LinkedList.h"
+
+1593270388 source:c:\users\federico\desktop\tp4\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Employee.h"
+	"LinkedList.h"
+	"burgos.h"
+
+1592080437 source:c:\users\federico\desktop\tp4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533133022 c:\users\federico\desktop\tp4\controller.h
+
